@@ -1,9 +1,15 @@
-Namaskar 🙏 
+## 🌟 About Me  
+Namaskar 🙏  
+I’m a developer who experienced a turning point after the release of ChatGPT. It inspired me to dive deeply into the world of Artificial Intelligence.  
 
-## I am developer who feel shock after chatgpt release and now learning ai🦾
+### 🚀 Current Focus  
+- **Learning:** Generative AI, Large Language Models (LLMs), and Prompt Engineering using free APIs.  
+- **Building:** Projects leveraging AI to showcase its real-world applications and impact.  
 
-##ABOUT ME:
-🔭 I'm currently understanding AI and it's reprocussions on a deeeper level
-🌱 I’m currently learning Generative AI
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
+### 🤝 Collaboration Goals  
+I’m eager to collaborate with companies or teams curious about AI and interested in utilizing it to enhance efficiency.  
+
+### 💡 How I Can Help  
+I’m looking to assist those in need of AI solutions or services to address specific challenges.  
+
+Let’s build the future together! 🌐🦾  
