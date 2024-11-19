@@ -30,4 +30,4 @@ Let’s build the future together! 🌐🦾
 </div>
 
 ### :fire: My Stats :
-http://github-readme-streak-stats.herokuapp.com/?user=yrarjun59&theme=dark&background=000000)](https://git.io/streak-stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yrarjun59&theme=dark&background=000000)](https://git.io/streak-stats)
