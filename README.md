@@ -1,6 +1,6 @@
 ## 🌟 About Me  
 Namaskar 🙏  
-I’m a developer who experienced a turning point after the release of ChatGPT. It inspired me to dive deeply into the world of Artificial Intelligence.  
+I’m a Python developer now delving into the world of Artificial Intelligence.  
 
 ### 🚀 Current Focus  
 - **Learning:** Generative AI, Large Language Models (LLMs), and Prompt Engineering using free APIs.  
