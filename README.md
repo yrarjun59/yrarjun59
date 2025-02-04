@@ -1,5 +1,5 @@
 ## 🌟 About Me  
-Namaskar 🙏  
+Hi, there 🙏  
 I’m a Python developer now delving into the world of Artificial Intelligence.  
 
 ### 🚀 Current Focus  
@@ -29,11 +29,11 @@ Let’s build the future together! 🌐🦾
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yrarjun59&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yrarjun59&theme=dark&background=#333)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrarjun59&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### : 📫 How to reach me: 
+### How to reach me: 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/yrarjun59) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arjun-thapa-bb812319b/)  
 
