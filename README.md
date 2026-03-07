@@ -16,4 +16,4 @@ AI is shaping the future. 🌐🦾
 
 
 ### How to reach me: 
-[![Gmail](https://img.shields.io/badge/Gmail-orange?style=flat-square)](mailto:yrarjun59@gmail.com)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/thapa-arjun/)
+[![Gmail](https://img.shields.io/badge/Gmail-orange?for-the-badge)](mailto:yrarjun59@gmail.com)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?for-the-badge)](https://www.linkedin.com/in/thapa-arjun/)
