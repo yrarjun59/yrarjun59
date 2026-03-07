@@ -17,7 +17,7 @@ Let’s build the future together! 🌐🦾
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="60" height="60" style="background-color: white; padding: 5px;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="AI" alt="Django" width="60" height="60" style="background-color: white; padding: 5px;"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-plain-wordmark.svg" title="DRF" alt="DRF" width="60" height="60" style="background-color: white; padding: 5px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
