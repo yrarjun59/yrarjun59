@@ -3,20 +3,21 @@ Hi, there 🙏
 I’m a Python developer now delving into the world of Artificial Intelligence.  
 
 ### 🚀 Current Focus  
-- **Learning:** Generative AI, Large Language Models (LLMs), and Prompt Engineering using free APIs.  
+- **Learning:** Generative AI, Large Language Models (LLMs), Prompt Engineering and AI Skills.  
 - **Building:** Projects leveraging AI to showcase its real-world applications and impact.  
 
 ### 🤝 Collaboration Goals  
-I’m eager to collaborate with companies or teams curious about AI and interested in utilizing it to enhance efficiency.  
+Excited to team up with companies and innovators exploring AI to drive smarter, faster, and more impactful solutions. 
 
 ### 💡 How I Can Help  
-I’m looking to assist those in need of AI solutions or services to address specific challenges.  
+I can make you familiar with AI.  
 
-Let’s thrive together! 🌐🦾  
+AI is shaping the future. 🌐🦾
 
 
 ### How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arjun-thapa-bb812319b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thapa-arjun/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thapa-arjun/)  
 
 [![Twitter/X](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yrarjun59 ) 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=email)](mailto:yrarjun59@gmail.com)
