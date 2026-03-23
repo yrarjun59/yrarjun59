@@ -3,17 +3,25 @@ Hi, there 🙏
 I’m a Python developer now delving into the world of Artificial Intelligence.  
 
 ### 🚀 Current Focus  
-- **Learning:** Generative AI, Large Language Models (LLMs), Prompt Engineering and AI Skills.  
-- **Building:** Projects leveraging AI to showcase its real-world applications and impact.  
+**Learning** AI & **Building** cools stuffs with AI  
 
-### 🤝 Collaboration Goals  
-Excited to team up with companies and innovators exploring AI to drive smarter, faster, and more impactful solutions. 
+### 🔨 Currently Building
 
-### 💡 How I Can Help  
-I can make you familiar with AI.  
+🎭 **Debate Hall** — A virtual arena where multiple AI agents clash, argue, and reason through any topic you throw at them
+-
+🔗 [github.com/yrarjun59/debate-hall](https://github.com/yrarjun59/debate-hall)
 
-AI is shaping the future. 🌐🦾
+🌸 **NithyaAI** — An eternal AI companion that understands and speaks in modern Nepali
+-
+🔗 [github.com/yrarjun59/nithyaai](https://github.com/yrarjun59/nithyaai)
 
+💃 **LocalDiva** — A voice-powered AI assistant that manages your chores and tasks via MCP
+-
+🔗 [github.com/yrarjun59/localdiva](https://github.com/yrarjun59/localdiva)
+
+🤖 **FAQ Assistant** — Ask anything in plain English; Stella retrieves answers from your local documents using RAG
+-
+🔗 [github.com/yrarjun59/FAQ-Assistant](https://github.com/yrarjun59/FAQ-Assistant)
 
 ### How to reach me: 
 [![Gmail](https://img.shields.io/badge/Gmail-orange?for-the-badge)](mailto:yrarjun59@gmail.com)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?for-the-badge)](https://www.linkedin.com/in/thapa-arjun/)
